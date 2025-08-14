@@ -1,9 +1,9 @@
 # 我的笔记
 
 ## 📚 文章目录
-- [1. 策略介绍](./docs/Introduction.md)
-- [2. 实盘记录](./docs/Record.md)
-- [3. 笔记](./docs/Notes.md)
+- [1. 策略介绍](https://github.com/Maikefee/DingPanDog/wiki/策略介绍)
+- [2. 实盘记录](https://github.com/Maikefee/DingPanDog/wiki/实盘记录)
+- [3. 笔记](https://github.com/Maikefee/DingPanDog/wiki/笔记)
 
 ---
 
