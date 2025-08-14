@@ -27,7 +27,7 @@ DingPanDog is an automated cryptocurrency trading strategy that monitors over 50
 
 ### 🔗 Quick Links
 
-- **📖 Detailed Documentation**: [DingPanDog Wiki](https://github.com/Maikefee/DingPanDog.wiki)
+- **📖 Detailed Documentation**: [DingPanDog Wiki](https://github.com/Maikefee/DingPanDog/wiki)
 - **🌐 Official Website**: https://www.dingpandog.com/
 - **📱 Telegram Group**: https://t.me/shipanjiankong
 - **💬 WeChat Contact**: rggboom
@@ -80,7 +80,7 @@ The `img/` folder contains:
 
 ### 🔗 快速链接
 
-- **📖 详细文档**: [盯盘狗Wiki](https://github.com/Maikefee/DingPanDog.wiki)
+- **📖 详细文档**: [盯盘狗Wiki](https://github.com/Maikefee/DingPanDog/wiki)
 - **�� 官方网站**: https://www.dingpandog.com/
 - **📱 Telegram群**: https://t.me/shipanjiankong
 - **💬 微信联系**: rggboom
