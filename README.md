@@ -95,6 +95,7 @@ The `img/` folder contains:
 - 
 - **📖 详细文档**: [盯盘狗Wiki](https://github.com/Maikefee/DingPanDog/wiki)
 - **�� 官方网站**: https://www.dingpandog.com/
+- **📱 Telegram**: https://t.me/whogotbtc
 - **📱 Telegram群**: https://t.me/shipanjiankong
 - **💬 微信联系**: rggboom
 
