@@ -120,6 +120,7 @@ DingPanDog/
 
 - **Telegram**: https://t.me/shipanjiankong
 - **微信**: rggboom
+- **📱 Telegram**: https://t.me/whogotbtc
 - **官网**: https://www.dingpandog.com/
 
 ---
